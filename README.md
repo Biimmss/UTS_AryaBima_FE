@@ -52,7 +52,7 @@ The application will open in your default browser at `http://localhost:3000`
 
 - Dashboard View
 <div align="center">
-  <img src="/src/image/dashboardview.png" alt="Dashboard" width="200"/>
+  <img src="https://github.com/Biimmss/UTS_AryaBima_FE/blob/main/src/image/dashboardview.png?raw=true" alt="Dashboard" width="1200"/>
 </div>
 
 ## 👥 Contributors
