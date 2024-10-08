@@ -47,7 +47,7 @@ The application will open in your default browser at `http://localhost:3000`
 
 - Register View
 <div align="center">
-  <img src="/src/image/registerview.png" alt="Register" width="200"/>
+  <img src="https://github.com/Biimmss/UTS_AryaBima_FE/blob/main/src/image/registerview.png?raw=true" alt="Register" width="1200"/>
 </div>
 
 - Dashboard View
