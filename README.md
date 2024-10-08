@@ -42,7 +42,7 @@ The application will open in your default browser at `http://localhost:3000`
 ## 🖥 Screenshots
 - Login View
 <div align="center">
-  <img src="https://github.com/Biimmss/UTS_AryaBima_FE/blob/main/src/image/loginview.png?raw=true" alt="Login" width="500"/>
+  <img src="https://github.com/Biimmss/UTS_AryaBima_FE/blob/main/src/image/loginview.png?raw=true" alt="Login" width="800"/>
 </div>
 
 - Register View
