@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uts-frontend/static/css/main.e75e3132.css",
+    "main.js": "/uts-frontend/static/js/main.e03058a0.js",
+    "index.html": "/uts-frontend/index.html",
+    "main.e75e3132.css.map": "/uts-frontend/static/css/main.e75e3132.css.map",
+    "main.e03058a0.js.map": "/uts-frontend/static/js/main.e03058a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75e3132.css",
+    "static/js/main.e03058a0.js"
+  ]
+}
