@@ -45,6 +45,9 @@ const SalesList = () => {
     try {
       await axios.post('http://localhost:3005/CreateSales', newSale); 
       setNewSale({ nama_sales: '', email_sales: '' }); 
+      setTimeout(()=>{
+window.location.href = '/sales'
+      },1000)
     } catch (error) {
       console.error('Error adding sale:', error);
     }

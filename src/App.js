@@ -20,6 +20,8 @@ function App() {
     if (token) {
       setIsLoggedIn(true);
       setUserRole('admin');
+    }else{
+      navigate('/login')
     }
   }, []);
 
