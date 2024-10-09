@@ -42,18 +42,18 @@ The application will open in your default browser at `http://localhost:3000`
 ## 🖥 Screenshots
 - Login View
 <div align="center">
-  <img src="/src/image/loginview.png" alt="Login" width="200"/>
-</div>
+  <img src="https://github.com/Biimmss/UTS_AryaBima_FE/blob/main/src/image/loginview.png?raw=true" alt="Login" width="1200"/>
+</div> <br>
 
 - Register View
 <div align="center">
-  <img src="/src/image/registerview.png" alt="Register" width="200"/>
-</div>
+  <img src="https://github.com/Biimmss/UTS_AryaBima_FE/blob/main/src/image/registerview.png?raw=true" alt="Register" width="1200"/>
+</div> <br>
 
 - Dashboard View
 <div align="center">
-  <img src="/src/image/dashboardview.png" alt="Dashboard" width="200"/>
-</div>
+  <img src="https://github.com/Biimmss/UTS_AryaBima_FE/blob/main/src/image/dashboardview.png?raw=true" alt="Dashboard" width="1200"/>
+</div> <br>
 
 ## 👥 Contributors
 - [Arya Bima](https://github.com/Biimmss)
